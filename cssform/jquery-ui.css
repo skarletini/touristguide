@@ -598,6 +598,6 @@ body .ui-tooltip { border-width: 2px; }
 		}
 }
 .text-box-light{
-	background: url(../images/calender.png) #394264 no-repeat 95% 50%;
+	background: url(images/calender.png) #394264 no-repeat 95% 50%;
 	cursor:pointer;
 }
