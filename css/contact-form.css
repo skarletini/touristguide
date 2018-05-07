@@ -3,7 +3,7 @@
 /* Contact Form Basic Styles 
 ========================================================*/
 #contact-form {
-  position: relative;
+  position: absolute;
 }
 #contact-form label {
   position: relative;
